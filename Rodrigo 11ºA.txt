@@ -1,0 +1,3 @@
+Git é tipo um caderno onde eu guardo todas as versões do meu código e se eu fizer alguma mudança e der errado, consigo voltar atrás, como se fosse um Ctrl Z. 
+
+GitHub é onde eu posso guardar meus projetos na nuvem, acessar de qualquer lugar e até trabalhar junto com outras pessoas no mesmo código.
