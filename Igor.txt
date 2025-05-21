@@ -1,0 +1,5 @@
+# O que é Git e GitHub
+
+**Git** é um sistema de controlo de versões que permite rastrear alterações em arquivos e coordenar o trabalho entre programadores.
+
+**GitHub** é uma plataforma baseada no Git que permite armazenar projetos na nuvem, colaborar com outros desenvolvedores e gerir o histórico de versões de forma centralizada.
