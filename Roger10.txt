@@ -1,0 +1,33 @@
+ java script 
+
+function iniciarDialogo() {
+    alert("👤: Hola, soy Alex, tu guía virtual.");
+    
+    const nombre = prompt("👤: ¿Cómo te llamas?");
+    alert(`👤: Encantado de conocerte, ${nombre}.`);
+  
+    const respuesta = prompt("👤: ¿Quieres comenzar una aventura? (sí / no)").toLowerCase();
+  
+    if (respuesta === "sí") {
+      alert("👤: ¡Excelente! La aventura comienza ahora...");
+    } else {
+      alert("👤: Está bien, tal vez en otro momento.");
+    }
+  }
+    
+
+HTML
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Diálogo Interactivo</title>
+</head>
+<body>
+  <h1>Haz clic para iniciar el diálogo</h1>
+  <button onclick="iniciarDialogo()">Hablar con el personaje</button>
+
+  <script src="dialogo.js"></script>
+</body>
+</html>
