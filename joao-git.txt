@@ -1,0 +1,3 @@
+Para que serve o Git?
+
+O git serve para nos conseguirmos guardar os trabalhos e para colocar no GitHub e para controlar as versões.
