@@ -1,0 +1,4 @@
+Git é um sistema de controle de versão usado para rastrear e gerenciar mudanças no código. Ele permite que desenvolvedores salvem "fotos" do progresso do projeto, chamadas de commits, e organizem diferentes versões usando branches (ramificações). Com o Git, várias pessoas podem trabalhar no mesmo projeto ao mesmo tempo sem sobrescrever o trabalho umas das outras. Ele funciona localmente no seu computador, mesmo sem internet, e permite voltar a versões anteriores do código quando necessário.
+
+GitHub é uma plataforma online que hospeda repositórios Git. Ela adiciona recursos de colaboração, como compartilhamento de código, revisão de mudanças, acompanhamento de tarefas e trabalho em equipe através de pull requests. Enquanto o Git gerencia o código e seu histórico, o GitHub é o lugar onde esse código é armazenado e onde desenvolvedores do mundo todo podem contribuir e trabalhar juntos. O GitHub facilita e organiza o trabalho em equipe em projetos de programação.
+
