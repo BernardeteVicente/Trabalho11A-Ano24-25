@@ -1,0 +1,1 @@
+O Git é uma plataforma que facilita o processo de partilha de código para projetos em equipa, uma plataforma que pode servir também como um fórum de programadores onde podem partilhar códigos de forma pública ou privada para a realização projeto com o auxílio do GitHub, além de funcionar como um cmd melhor para programadores
